@@ -1,0 +1,6 @@
+name: NemisysRakNet
+version: "1.0"
+api: ["1.0.0"]
+main: com.creeperface.nemisys.raknet.NemisysRaknet
+description: Another RakNet implementation written by SupremeMortal
+authors: [SupremeMortal, CreeperFace]
